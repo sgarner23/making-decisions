@@ -158,6 +158,7 @@ console.log(changeMyMind);
 
 //CODE HERE
 
+changeMyMind = !changeMyMind;
 
 
 
@@ -172,7 +173,7 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 */
 
 //Code Here
-let someNum = myFavoriteNumbers[5];
+let someNum = myFavoriteNumbers[4];
 
 console.log(someNum);
 
